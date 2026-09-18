@@ -182,3 +182,8 @@ Run test → Capture screenshot/video → Use the evidence for debugging or repo
 | Screenshot           | `page.screenshot()` | Capture page image    |
 | Full-page screenshot | `full_page=True`    | Capture entire page   |
 | Video                | `record_video_dir`  | Record test execution |
+
+
+## TEST UPDATE
+
+This is my GitHub update test.
